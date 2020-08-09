@@ -2,4 +2,4 @@
  Fun game developed for web enthusiasts who love DJ
 
 
-Make sure to keep your capslock on!!  Enjoy :)
+I'm sure you would love it!!  Enjoy :)
