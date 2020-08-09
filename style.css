@@ -45,6 +45,18 @@ body{
     justify-content: center;
     align-items: center;
     font-size: 2em;
-    border: 5px solid aqua;
     border-radius: 10px;
+    transition: 0.4s all;
+}
+
+.aqua{
+    border: 5px solid aqua;
+}
+
+.purple{
+    border: 5px solid #ff00ff;
+}
+
+.white{
+    border: 5px solid white;
 }
